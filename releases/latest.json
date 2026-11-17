@@ -1,0 +1,21 @@
+{
+  "name": "白菜工坊 (Cabbage Forge Workshop)",
+  "version": "0.6.46",
+  "publishedAt": "2026-11-11T10:24:41.737316+00:00",
+  "website": "https://www.poe2ggg.com/",
+  "guidePage": "https://www.poe2ggg.com/modules/desktop_patch/index.html",
+  "installer": {
+    "name": "baicai-workshop-0.6.46-setup.exe",
+    "url": "https://www.poe2ggg.com/download/baicai-workshop-0.6.46-setup.exe",
+    "size": 21245432,
+    "sha256": "1994f9f4a1ef7dba7af5d4e2be7edbd43a7b4ed68ddb191d25933d16b215a24e"
+  },
+  "portable": {
+    "name": "baicai-workshop-0.6.46.zip",
+    "url": "https://www.poe2ggg.com/download/baicai-workshop-0.6.46.zip",
+    "size": 38803015,
+    "sha256": "9a01fc32b465c751499750f8d16523adf49a19ff4907fde52f9a082d8b033df5"
+  },
+  "sourceCodeOpen": false,
+  "price": "Free (Always Free)"
+}
